@@ -1,0 +1,194 @@
+/* top Heades  */
+
+.top-nav-bar {
+
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-left: 10%;
+     background-color: rgba(242, 245, 239, 0.947);
+     border-radius: 30px;
+     border-color: rgba(243, 242, 239, 0.923);
+     margin-right: 10%;
+     border: 2px;
+}
+
+
+/* Navigations directories */
+
+.navigations {
+     display: inline-block;
+     font-size: x-large;
+     margin-left: 10px;
+}
+
+/* input search bar */
+#input-search-bar {
+     margin-left: 45px;
+     padding-left: 20px;
+     margin-top: 30px;
+     border: 2px solid black;
+     border-radius: 20px;
+     height: 30px;
+}
+
+/* placeholder inside input search bar */
+#input-search-bar::placeholder {
+     font-size: x-large;
+}
+
+
+
+     /* Used to modify "search label tag after input" */
+     #search-label {
+          margin-left: 20px;
+          margin-right: 20px;
+     }
+
+
+
+     /*                                  Creating a new Posts                 */
+
+
+     /* Profile image in header */
+     .profile-image {
+          margin-left: 10px;
+     }
+
+     /* Profile and "start a Post " in create a post */
+     .posts-direct-components {
+          display: inline-block;
+
+     }
+
+
+     /* Navbar in create a new post */
+     .create-posts-navbar {
+          margin-left: 29%;
+          background-color: rgba(244, 249, 250, 0.917);
+          margin-right: 20%;
+          height: 100px;
+          width: 42%;
+          border: 2px;
+          border-radius: 10px;
+          padding: 30px;
+     }
+
+     /*  labels in create a new post */
+
+     #label-inside-create-post {
+          background-color: rgba(234, 238, 242, 0.977);
+          width: 502px;
+          height: 50px;
+          border-radius: 10px;
+          margin-left: 15px;
+          margin-right: 15px;
+          padding-left: 20px;
+          padding-top: 10px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: x-large;
+          margin-bottom;
+     }
+
+     /* div tag contain labels inside create a new post */
+
+     .div-contain-label-for-new-post {
+          margin-left: 15%;
+          padding: 20px;
+     }
+
+     /* " Article,   jobs,   Media" in "Creating a new Posts" */
+
+     .label-for-creating-different-posts {
+          margin: 30px;
+          font-size: x-large;
+     }
+
+     /*div tag for Posts in feed  */
+     .div-tag-for-posts {
+          margin-left: 30%;
+          height: fit-content;
+          margin-right: 26%;
+          background-color: rgba(236, 243, 242, 0.73);
+          margin-top: 30px;
+          border: 20px;
+          border-color: black;
+          border-radius: 30px;
+          padding: 30px;
+     }
+
+     /* user name inside posts*/
+     .label-for-posts-in-feed {
+          margin-top:0px;
+          margin-bottom: 0px;
+          padding:0px;
+          margin-left: 20px;
+          font-size:small;
+          font-weight: bold;
+          font-family: Arial, Helvetica, sans-serif;
+          display:inline-block;
+     }
+
+     /* Horizontal Rule in posts*/
+     .horizontal-rule-in-posts {
+          margin-top: 30px;
+     }
+
+     /* div tag contains post-content in posts */
+     .post-content {
+          margin-top: 30px;
+          padding: 30px;
+          height: fit-content;
+          background-color: rgb(237, 239, 242);
+          border-radius: 10px;
+          word-wrap: break-word;
+     }
+
+     /* Heading in top-nav bar */
+     .top-navbar-heading {
+          text-decoration: none;
+          color: black;
+
+     }
+
+     /*                                Loading A new Content                               */
+
+     /* Div tag for loading new content */
+     .load-new-posts {
+
+          text-decoration: none;
+          background-color: rgba(243, 245, 239, 0.959);
+          margin-left: 30%;
+          margin-top: 39px;
+          height: 50px;
+          margin-right: 26%;
+          padding-top: 30px;
+          border: 2px solid black;
+          border-radius: 30px;
+          font-size: x-large;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     }
+
+
+     #body {
+          overflow-x: hidden;
+     }
+
+     /* Anchor tag in div-load-content */
+     .Anchor-tag-for-load-content {
+          margin-top: 40px;
+          margin-left: 35%;
+          color: black;
+          text-decoration: none;
+     }
+
+     /* All images */
+
+     .resize{
+
+          height:35px;
+          width:30px;
+          border-radius:500px;
+          
+     }
+
+ 
